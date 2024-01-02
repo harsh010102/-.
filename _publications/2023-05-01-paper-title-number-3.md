@@ -1,7 +1,7 @@
 ---
 title: "Price Prediction for Pharmaceutical Stocks During Covid-19 Pandemic"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2023-05-01-paper-title-number-3
 # excerpt: 
 # date: 2023-05-01
 venue: 'International Conference on Applications of Machine Intelligence and Data Analytics (ICAMIDA 2022)'

@@ -1,7 +1,7 @@
 ---
 title: "Cryptocurrency Price Prediction Using Machine Learning"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2023-10-01-paper-title-number-1
 # excerpt: 
 # date: 2009-10-01
 venue: '6th International Conference on Advance Computing and Intelligent Engineering'
