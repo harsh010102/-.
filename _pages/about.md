@@ -13,9 +13,9 @@ redirect_from:
 <!-- ![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"} -->
 👨🏻‍💻 I'm a Visiting Research Fellow at the Max Planck Institute for Software Systems (MPI-SWS).
 
-🔬 My research interests are in Applied Machine Learning, Climate Technology and Product Management!
+🔬 My interests are in Machine Learning, Climate Technology and Product Management!
 
-🖥️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
+🖥️ I am also interested in assisting others on their path in the world of Machine Learning and Academia.
 
 # Selected Experience
 
