@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-05-01-paper-title-number-3
 # excerpt: 
 # date: 2023-05-01
-venue: 'International Conference on Applications of Machine Intelligence and Data Analytics (ICAMIDA 2022)'
+venue: 'International Conference on Applications of Machine Intelligence and Data Analytics'
 paperurl: 'https://www.atlantis-press.com/proceedings/icamida-22/125986299'
 citation: 'Parikh, H., Padariya, K. V., Sharma, A. (2023). Price Prediction for Pharmaceutical Stocks During Covid-19 Pandemic. Proceedings of the International Conference on Applications of Machine Intelligence and Data Analytics (ICAMIDA 2022), 61-68. Atlantis Press.'
 ---
