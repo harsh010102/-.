@@ -8,7 +8,9 @@ main:
     
   - title: "CV"
     url: /files/ParikhHarshCV.pdf
-    
+
+  - title: "Portfolio"
+    url: https://harshparikh.netlify.app/
   # - title: "Guide"
   #   url: /markdown/
 
@@ -18,5 +20,3 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  # - title: "Portfolio"
-  #   url: /portfolio/
